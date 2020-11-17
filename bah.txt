@@ -1,0 +1,7 @@
+total 16
+drwxrwxr-x 3 sagge sagge 4096 nov 18 00:03 ./
+drwxrwxr-x 3 sagge sagge 4096 nov 17 23:55 ../
+-rw-rw-r-- 1 sagge sagge    0 nov 18 00:03 bah.txt
+-rw-rw-r-- 1 sagge sagge    0 nov 17 23:55 file1
+drwxrwxr-x 8 sagge sagge 4096 nov 18 00:01 .git/
+-rw-rw-r-- 1 sagge sagge   23 nov 17 23:57 kallr.txt
